@@ -1,7 +1,8 @@
-package net.storehouse.nono.custom2048
+package net.storehouse.nono.custom2048.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import net.storehouse.nono.custom2048.R
 
 class MainActivity : AppCompatActivity() {
 
