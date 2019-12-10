@@ -1,7 +1,7 @@
 package net.storehouse.nono.custom2048.model
 
 data class Game2048Model(
-    val position: Position,
+//    val position: Position,
     val cellValue: CellValue,
     val direction: Direction
 )
